@@ -1,6 +1,6 @@
 # based
 
-Hey, what's up? This program has been packaged for MacOS.
+This program has been packaged for MacOS.
 
 1. Download [this .zip file][1].
 
