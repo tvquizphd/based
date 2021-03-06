@@ -23,7 +23,7 @@ def get_input(default, what='number'):
     try:
         return abs(int(number))
     except ValueError as e:
-        print(f"  Error: {number} is not a decimal number!")
+        print(f"  Error: {number} is not a decimal integer!")
         return None
     
 def show_results(number, base, output):
