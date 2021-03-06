@@ -8,7 +8,7 @@ Hey, what's up?
 
 2. Double click to unzip, and then open the `based` folder.
 
-3. Right click and then "Open" the `right_click_to_open` file.
+3. Right click, and then "Open" the `right_click_to_open` file.
 
 4. Follow the text-based instructions in the window that opens.
 
