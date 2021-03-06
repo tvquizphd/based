@@ -16,6 +16,6 @@ Hey, what's up?
 
 ---
 
-Take my word for it... I swear this is a trusted .zip file:
+Take my word for it... I swear you can trust this .zip file:
 
 ![MacOS Chrome Warning](https://raw.githubusercontent.com/tvquizphd/based/main/warning.png)
