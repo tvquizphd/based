@@ -18,7 +18,7 @@ Hey, what's up?
 
 Take my word for it... I swear you can trust [this .zip file][1]:
 
-![MacOS Chrome Warning](https://raw.githubusercontent.com/tvquizphd/based/main/warning.png)
+[![MacOS Chrome Warning](https://raw.githubusercontent.com/tvquizphd/based/main/warning.png)][1]
 
 
 [1]: https://github.com/tvquizphd/based/releases/download/1.0.0/based.zip
