@@ -10,8 +10,6 @@ Hey, what's up?
 
 3. Right click and then "Open" the `right_click_to_open` file.
 
-   - Confirm that you want to open the file.
-
 4. Follow the text-based instructions in the window that opens.
 
 
