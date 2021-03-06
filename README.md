@@ -6,7 +6,7 @@ Hey, what's up?
 
    - Ignore any warnings to save the file.
 
-2. Double click to unzip and open the "based" folder.
+2. Double click to unzip and open the `based` folder.
 
 3. Right click and then "Open" the `right_click_to_open` file.
 
