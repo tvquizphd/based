@@ -49,19 +49,23 @@ def show_results(number, base, output):
 def main():
     number = get_input(1969)
     if number is None:
-        return
+        print("")
+        time.sleep(0.2)
+        return main()
     print(f"  We'll give the digits for {number}.")
     print("")
     time.sleep(0.2)
     base = get_input(20, 'base')
     if base is None:
-        return
+        print("")
+        time.sleep(0.2)
+        return main()
     print(f"  We'll use base {base}.")
     output = based(number, base)
     show_results(number, base, output)
     print("")
     time.sleep(1.6)
-    main()
+    return main()
 
 if __name__ == "__main__":
     print(f"\nHello, {NAME}\n")
