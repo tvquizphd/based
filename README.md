@@ -12,8 +12,10 @@ Hey, what's up?
 
 4. Follow the text-based instructions in the black window that opens
 
-Take my word for it... this is a trusted .zip file:
+
 
 ---
+
+Take my word for it... I swear this is a trusted .zip file:
 
 ![MacOS Chrome Warning](https://raw.githubusercontent.com/tvquizphd/based/main/warning.png)
