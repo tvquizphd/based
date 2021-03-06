@@ -4,13 +4,13 @@ Hey, what's up?
 
 1. Download [this zip file](https://github.com/tvquizphd/based/releases/download/1.0.0/based.zip).
 
-2. Ignore any warnings to save the file.
+   - Ignore any warnings to save the file.
 
-3. Double click to unzip the folder.
+2. Double click to unzip and open the "based" folder.
 
-4. Right click and then "Open" the `right_click_to_open`
+3. Right click and then "Open" the `right_click_to_open` file.
 
-5. Follow the text-based instructions in the black window that opens
+4. Follow the text-based instructions in the black window that opens
 
 ---
 
